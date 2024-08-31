@@ -1,5 +1,3 @@
-Here is a simple `README.md` file for your project:
-
 # **Supabase Credentials Authentication with Password Recovery in Next.js 14**
 
 This project demonstrates how to implement Supabase credentials authentication with a password recovery mechanism in a Next.js 14 application using Server Actions.
@@ -20,6 +18,6 @@ This project uses the following environment variables:
 ## **Example `.env` File**
 
 ```makefile
-NEXT_PUBLIC_SUPABASE_URL="
+NEXT_PUBLIC_SUPABASE_URL=""
 NEXT_PUBLIC_SUPABASE_ANON_KEY=""
 ```
